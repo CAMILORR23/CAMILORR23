@@ -46,11 +46,6 @@ Back-End Developer and Systems and Computing student proficient in SCRUM methodo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![skill-icons--matlab-light (1)](https://github.com/TatoNaranjo/TatoNaranjo/assets/104372184/30023460-d375-4ec1-a7ff-72857a601465)
 
-
-
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatoNaranjo&layout=compact&theme=holi" />
-
-
 # What Am I Currently Doing?
 
 <details>
